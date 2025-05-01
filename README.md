@@ -49,7 +49,7 @@ This assignment should prove that a student is able to:
 - [ ] All the tests MUST pass. Fix the errors in case they don't BEFORE you submit (acceptance criteria)
   - [ ] Use `npm run test` to run all tests in the terminal
   - [ ] Use `npm run test-main` to run index.html file tests
-  - [ ] Use `npm run test-modern-design` to run modern-design.html file tests
+  - [ ] Use `npm run test-mondern-design` to run modern-design.html file tests
   - [ ] Use `npm run test-nature` to run nature.html file tests
   - [ ] Use `npm run test-plants` to run plants.html file tests
   - [ ] Use `npm run test-space` to run space.html file tests
